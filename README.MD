@@ -1,4 +1,4 @@
-### Masterschool 1st Hackathon - Team 2 ( Hasnain, Paula, Dennis, Rechard, Sonam )
+### Masterschool 1st Hackathon - Team 2 ( Hasnain, Paula, Dennis, Richard, Sonam )
 
 
 # Project: Articleus Game
